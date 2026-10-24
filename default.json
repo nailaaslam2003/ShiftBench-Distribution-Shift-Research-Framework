@@ -1,0 +1,12 @@
+{
+  "n_samples": 3000,
+  "shift_point": 1500,
+  "train_fraction": 0.4,
+  "window_size": 100,
+  "alpha": 0.01,
+  "confidence_threshold": 0.7,
+  "n_seeds": 8,
+  "seed_start": 42,
+  "detection_tolerance": 200,
+  "output_dir": "reports"
+}
